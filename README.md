@@ -2,7 +2,7 @@
 
 
 **Installation guide**
-```git clone https://github.com/zax-universe/ex-kernel.git```
+``git clone https://github.com/zax-universe/ex-kernel.git``
 ```cd ex-kernel```
 
 // run c
